@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{A589FEF5-9712-4EB6-A0F6-006D6F5E9AE8}|FileSystemCompositePattern\\FileSystemCompositePattern.csproj|solutionrelative:filesystemcompositepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A589FEF5-9712-4EB6-A0F6-006D6F5E9AE8}|FileSystemCompositePattern\\FileSystemCompositePattern.csproj|c:\\code\\practice\\design patterns\\composite pattern\\c-_composite_pattern_assignment\\filesystemcompositepattern\\filesystemcompositepattern\\filesystemcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A589FEF5-9712-4EB6-A0F6-006D6F5E9AE8}|FileSystemCompositePattern\\FileSystemCompositePattern.csproj|solutionrelative:filesystemcompositepattern\\filesystemcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A589FEF5-9712-4EB6-A0F6-006D6F5E9AE8}|FileSystemCompositePattern\\FileSystemCompositePattern.csproj|c:\\code\\practice\\design patterns\\composite pattern\\c-_composite_pattern_assignment\\filesystemcompositepattern\\filesystemcompositepattern\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A589FEF5-9712-4EB6-A0F6-006D6F5E9AE8}|FileSystemCompositePattern\\FileSystemCompositePattern.csproj|solutionrelative:filesystemcompositepattern\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A589FEF5-9712-4EB6-A0F6-006D6F5E9AE8}|FileSystemCompositePattern\\FileSystemCompositePattern.csproj|c:\\code\\practice\\design patterns\\composite pattern\\c-_composite_pattern_assignment\\filesystemcompositepattern\\filesystemcompositepattern\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A589FEF5-9712-4EB6-A0F6-006D6F5E9AE8}|FileSystemCompositePattern\\FileSystemCompositePattern.csproj|solutionrelative:filesystemcompositepattern\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A589FEF5-9712-4EB6-A0F6-006D6F5E9AE8}|FileSystemCompositePattern\\FileSystemCompositePattern.csproj|c:\\code\\practice\\design patterns\\composite pattern\\c-_composite_pattern_assignment\\filesystemcompositepattern\\filesystemcompositepattern\\filesystemcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A589FEF5-9712-4EB6-A0F6-006D6F5E9AE8}|FileSystemCompositePattern\\FileSystemCompositePattern.csproj|solutionrelative:filesystemcompositepattern\\filesystemcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Directory.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Composite pattern\\c-_composite_pattern_assignment\\FileSystemCompositePattern\\FileSystemCompositePattern\\Directory.cs",
+              "RelativeDocumentMoniker": "FileSystemCompositePattern\\Directory.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Composite pattern\\c-_composite_pattern_assignment\\FileSystemCompositePattern\\FileSystemCompositePattern\\Directory.cs",
+              "RelativeToolTip": "FileSystemCompositePattern\\Directory.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:16:26.737Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,20 +49,20 @@
               "RelativeDocumentMoniker": "FileSystemCompositePattern\\File.cs",
               "ToolTip": "C:\\Code\\Practice\\Design patterns\\Composite pattern\\c-_composite_pattern_assignment\\FileSystemCompositePattern\\FileSystemCompositePattern\\File.cs",
               "RelativeToolTip": "FileSystemCompositePattern\\File.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T10:59:33.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FileSystemComponent.cs",
               "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Composite pattern\\c-_composite_pattern_assignment\\FileSystemCompositePattern\\FileSystemCompositePattern\\FileSystemComponent.cs",
               "RelativeDocumentMoniker": "FileSystemCompositePattern\\FileSystemComponent.cs",
               "ToolTip": "C:\\Code\\Practice\\Design patterns\\Composite pattern\\c-_composite_pattern_assignment\\FileSystemCompositePattern\\FileSystemCompositePattern\\FileSystemComponent.cs",
               "RelativeToolTip": "FileSystemCompositePattern\\FileSystemComponent.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T10:18:25.48Z",
               "EditorCaption": ""
@@ -56,9 +73,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Composite pattern\\c-_composite_pattern_assignment\\FileSystemCompositePattern\\FileSystemCompositePattern\\Program.cs",
               "RelativeDocumentMoniker": "FileSystemCompositePattern\\Program.cs",
-              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Composite pattern\\c-_composite_pattern_assignment\\FileSystemCompositePattern\\FileSystemCompositePattern\\Program.cs*",
-              "RelativeToolTip": "FileSystemCompositePattern\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Composite pattern\\c-_composite_pattern_assignment\\FileSystemCompositePattern\\FileSystemCompositePattern\\Program.cs",
+              "RelativeToolTip": "FileSystemCompositePattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T10:14:57.229Z",
               "EditorCaption": ""

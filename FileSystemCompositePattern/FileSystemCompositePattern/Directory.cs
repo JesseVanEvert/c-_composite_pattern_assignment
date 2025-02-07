@@ -6,26 +6,32 @@ using System.Threading.Tasks;
 
 namespace FileSystemCompositePattern
 {
-    public class File : FileSystemComponent
+    public class Directory : FileSystemComponent
     {
-        public File(string name) : base(name)
+        private List<FileSystemComponent> components = [];
+        public Directory(string name) : base(name)
         {
         }
 
         public override void Add(FileSystemComponent component)
         {
-            throw new NotImplementedException();
+            components.Add(component);
         }
 
         public override void Display(int indentLevel = 0)
         {
             Console.WriteLine($"{new string('-', indentLevel)} {_name}");
+
+            foreach (FileSystemComponent component in components)
+            {
+                component.Display(indentLevel + 2);  
+            }
         }
 
 
         public override void Remove(FileSystemComponent component)
         {
-            throw new NotImplementedException();
+            components.Remove(component);
         }
     }
 }

@@ -17,7 +17,7 @@ namespace FileSystemCompositePattern
                _name = name;    
         }
         
-        public abstract void Display();
+        public abstract void Display(int indentLevel);
         public abstract void Add(FileSystemComponent component);
         public abstract void Remove(FileSystemComponent component);
     }
