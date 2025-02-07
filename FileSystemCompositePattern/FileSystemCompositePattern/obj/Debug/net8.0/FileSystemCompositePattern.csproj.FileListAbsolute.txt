@@ -1,0 +1,15 @@
+C:\Code\Practice\Design patterns\Composite pattern\c-_composite_pattern_assignment\FileSystemCompositePattern\FileSystemCompositePattern\bin\Debug\net8.0\FileSystemCompositePattern.exe
+C:\Code\Practice\Design patterns\Composite pattern\c-_composite_pattern_assignment\FileSystemCompositePattern\FileSystemCompositePattern\bin\Debug\net8.0\FileSystemCompositePattern.deps.json
+C:\Code\Practice\Design patterns\Composite pattern\c-_composite_pattern_assignment\FileSystemCompositePattern\FileSystemCompositePattern\bin\Debug\net8.0\FileSystemCompositePattern.runtimeconfig.json
+C:\Code\Practice\Design patterns\Composite pattern\c-_composite_pattern_assignment\FileSystemCompositePattern\FileSystemCompositePattern\bin\Debug\net8.0\FileSystemCompositePattern.dll
+C:\Code\Practice\Design patterns\Composite pattern\c-_composite_pattern_assignment\FileSystemCompositePattern\FileSystemCompositePattern\bin\Debug\net8.0\FileSystemCompositePattern.pdb
+C:\Code\Practice\Design patterns\Composite pattern\c-_composite_pattern_assignment\FileSystemCompositePattern\FileSystemCompositePattern\obj\Debug\net8.0\FileSystemCompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Practice\Design patterns\Composite pattern\c-_composite_pattern_assignment\FileSystemCompositePattern\FileSystemCompositePattern\obj\Debug\net8.0\FileSystemCompositePattern.AssemblyInfoInputs.cache
+C:\Code\Practice\Design patterns\Composite pattern\c-_composite_pattern_assignment\FileSystemCompositePattern\FileSystemCompositePattern\obj\Debug\net8.0\FileSystemCompositePattern.AssemblyInfo.cs
+C:\Code\Practice\Design patterns\Composite pattern\c-_composite_pattern_assignment\FileSystemCompositePattern\FileSystemCompositePattern\obj\Debug\net8.0\FileSystemCompositePattern.csproj.CoreCompileInputs.cache
+C:\Code\Practice\Design patterns\Composite pattern\c-_composite_pattern_assignment\FileSystemCompositePattern\FileSystemCompositePattern\obj\Debug\net8.0\FileSystemCompositePattern.sourcelink.json
+C:\Code\Practice\Design patterns\Composite pattern\c-_composite_pattern_assignment\FileSystemCompositePattern\FileSystemCompositePattern\obj\Debug\net8.0\FileSystemCompositePattern.dll
+C:\Code\Practice\Design patterns\Composite pattern\c-_composite_pattern_assignment\FileSystemCompositePattern\FileSystemCompositePattern\obj\Debug\net8.0\refint\FileSystemCompositePattern.dll
+C:\Code\Practice\Design patterns\Composite pattern\c-_composite_pattern_assignment\FileSystemCompositePattern\FileSystemCompositePattern\obj\Debug\net8.0\FileSystemCompositePattern.pdb
+C:\Code\Practice\Design patterns\Composite pattern\c-_composite_pattern_assignment\FileSystemCompositePattern\FileSystemCompositePattern\obj\Debug\net8.0\FileSystemCompositePattern.genruntimeconfig.cache
+C:\Code\Practice\Design patterns\Composite pattern\c-_composite_pattern_assignment\FileSystemCompositePattern\FileSystemCompositePattern\obj\Debug\net8.0\ref\FileSystemCompositePattern.dll

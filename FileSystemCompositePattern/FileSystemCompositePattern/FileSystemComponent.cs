@@ -8,17 +8,17 @@ using System.Threading.Tasks;
 
 namespace FileSystemCompositePattern
 {
-    abstract class FileSystemComponent
+    public abstract class FileSystemComponent
     {
-        private string _name;
+        protected string _name;
 
         protected FileSystemComponent(string name)
         {
                _name = name;    
         }
         
-        protected abstract void Display();
-        protected abstract void Add(FileSystemComponent component);
-        protected abstract void Remove(FileSystemComponent component);
+        public abstract void Display();
+        public abstract void Add(FileSystemComponent component);
+        public abstract void Remove(FileSystemComponent component);
     }
 }
